@@ -1,0 +1,10 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
+activator
+activator-launch-1.2.10.jar
+.idea/
+.idea_modules/
